@@ -1,0 +1,26 @@
+{
+  "name": "venusbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "salari",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.4.1",
+    "@discordjs/voice": "^0.9.0",
+    "akaneko": "^5.2.3",
+    "discord-api-types": "^0.32.1",
+    "discord-welcome": "^3.0.3",
+    "discord.js": "^12.5.3",
+    "dotenv": "^16.0.1",
+    "opusscript": "0.0.7",
+    "ytdl-core": "^2.1.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.15.0"
+  }
+}
